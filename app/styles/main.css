@@ -1,0 +1,13 @@
+html, body, #map-canvas { 
+  height: 100%; 
+  margin: 0; 
+  padding: 0;
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.gm-style-iw div, .gm-style-iw div div {
+  overflow: hidden !important;
+}
+
